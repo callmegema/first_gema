@@ -1,5 +1,13 @@
 require "first_gema/version"
 
 module FirstGema
-  # Your code goes here...
+
+
+  def self.gema
+    puts 'yes, im gema'
+  end
+
+  def self.keita
+    puts 'plz call me gema'
+  end
 end
